@@ -1,11 +1,6 @@
-streamlit
-Pillow
-streamlit_webrtc 
-VideoTransformerBase
-numpy 
-scipy.spatial
-imutils 
-imutils
-dlib
-cv2
-pygame
+streamlit==0.89.0
+Pillow==8.4.0
+numpy==1.21.2
+scipy==1.7.3
+imutils==0.5.4
+opencv-python==4.5.3.56
