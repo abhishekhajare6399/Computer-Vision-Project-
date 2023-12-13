@@ -1,0 +1,11 @@
+streamlit
+Pillow
+streamlit_webrtc 
+VideoTransformerBase
+numpy 
+scipy.spatial
+imutils 
+imutils
+dlib
+cv2
+pygame
